@@ -40,19 +40,19 @@
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_READ_STATUS": {
@@ -70,7 +70,7 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "FAKE_RECORDING": {
@@ -122,7 +122,7 @@
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "ALWAYS_ONLINE": {
@@ -133,7 +133,7 @@
     "FAKE_TYPING": {
       "description": "make it true if you want to show fake typing.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
     "CURRENT_STATUS": {
       "description": "make it true if you to show your reail last seen.",
