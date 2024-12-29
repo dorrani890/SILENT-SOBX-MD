@@ -9,13 +9,12 @@
 
 -------
 
- <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SILENT+-+SOBX+-+MD+WHATSAPP+BOT`" alt="">
-
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=`SILENT-SOBX-MD-V2-WHATSAPP-BOT`" alt="Typing SVG" /></a>
+ 
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SILENT%20LOVER%20432%20KING%20OF%20KINGS%20OWNER%20SILENT%20LOVER%20AND%20SOBIA%20BUTT♥️&image=https://telegra.ph/file/e47b23583ab7ec42d58df.jpg?v=4&backgroundColor=%23ecf0f1&github=SILENTLOVER4&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=SILENT-SOBX-MD-V2&description=🥂❤️🔐THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SILENT%20LOVER%20432%20KING%20OF%20KINGS%20OWNER%20SILENT%20LOVER%20AND%20SOBIA%20BUTT%20MANGER%20AND%20BUG%20FINDER%20DARKDEVIL⁷¹⁹🖤🔥🔞&image=https://i.ibb.co/QvGkkd0/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=SILENTLOVER40&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
@@ -138,7 +137,7 @@ href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
 
 <p align="center">
 <a href='https://silent-sobx-md-web-pair.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id=1-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
  
 ----------
@@ -147,7 +146,7 @@ href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
 
 <p align="center">
 <a href='https://webpair-mega-silent-sobx.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0000FF?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id=2-0000FF?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
  
 ----------
